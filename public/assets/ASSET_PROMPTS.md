@@ -1,0 +1,16 @@
+# Original image assets
+
+Generated with the built-in image_gen tool. All assets are supporting illustrations, not interface screenshots. Saved locally for independent operation. SVG logo and avatars were authored from scratch in this project; all people are synthetic illustrations.
+
+## banner-team.png
+
+Use case: stylized-concept. Asset type: original supporting HR product banner illustration, no UI. Primary request: a beautifully crafted miniature paper and clay architectural horizon showing three sculptural abstract professional figures collaborating beside ascending navy and royal-blue steps and a single growing botanical leaf. Contemporary premium editorial illustration for an Arabic enterprise HR platform. Scene/backdrop: seamless pale cool gray-blue #F0F5FC studio surface. Composition/framing: horizontal wide landscape, main sculptural cluster centered, generous clean empty space around it, all objects fully visible. Lighting/mood: soft daylight, gentle grounded shadows, confident calm and human. Palette: navy #0D2448, royal blue #2563EB, warm off-white, muted teal, tiny warm sand accent. Materials/textures: matte clay, fine paper, crisp restrained geometric design. Constraints: no text, no letters, no logos, no watermark, no app screen, no photo-real identifiable people, no rainbow or glass effects. High-quality polished render.
+
+## leave-illustration.png
+
+Use case: stylized-concept. Asset type: original supporting illustration for employee vacation balance card, no UI. Primary request: a premium miniature matte royal-blue suitcase leaning beside a sculptural pale navy arch, small cream sun disk, and two elegant muted teal botanical leaves, visual metaphor for a restful leave. Scene/backdrop: seamless very pale cool gray #F6F8FC. Composition/framing: square centered still life with large clean margins, all objects visible. Lighting/mood: serene soft studio daylight, refined realistic shadows. Palette: navy #0D2448, royal blue #2563EB, off-white and muted teal, tiny warm sand. Materials/textures: high quality tactile matte clay and folded paper. Constraints: absolutely no text, no numbers, no letters, no logos, no watermark, no UI screenshot, no rainbow gradients. Enterprise friendly contemporary editorial illustration.
+
+## hero-success.png
+
+Use case: stylized-concept. Asset type: original supporting illustration for employee HR portal hero, no UI. Primary request: refined miniature sculptural professional success still life: a slim royal-blue ascending staircase, a navy arch behind, an elegant small cream flag without any markings, and muted teal plant. A subtle tiny abstract human figure standing confidently near the top step. Scene/backdrop: seamless very pale cool blue-gray #EDF3FC. Composition/framing: wide landscape, main still life centered with generous clean margins; all objects fully visible. Lighting/mood: calm optimistic soft directional daylight with realistic grounded shadows, premium crafted feel. Palette: navy #0D2448, royal blue #2563EB, off-white, muted teal, very restrained sand. Materials/textures: matte clay and cut paper, crisp soft edges. Constraints: no text, no numbers, no letters, no logo, no watermark, no UI, no realistic faces, no rainbow. Highly polished original enterprise editorial visual.
+
