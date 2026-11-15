@@ -6,7 +6,7 @@ Arabic RTL HRMS prototype built with React, TypeScript and Vite. Includes 15 HR 
 
 ## العرض المباشر
 
-[افتح نموذج أفق على الإنترنت](https://ofuq-hrms-aswailem195.fineguide4.chatgpt.site)
+[افتح نموذج أفق على Vercel](https://ofuq-hrms-prototype.vercel.app)
 
 الرابط متاح للمشاركة. جميع البيانات افتراضية، وتُحفظ تغييرات كل زائر في متصفحه فقط دون مزامنتها مع الزوار الآخرين.
 
