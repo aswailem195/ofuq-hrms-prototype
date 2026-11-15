@@ -4,6 +4,12 @@
 
 Arabic RTL HRMS prototype built with React, TypeScript and Vite. Includes 15 HR modules, an employee portal, payroll, sales commissions, and approval workflows. Frontend only, with fictional data stored in the browser.
 
+## العرض المباشر
+
+[افتح نموذج أفق على الإنترنت](https://ofuq-hrms-aswailem195.fineguide4.chatgpt.site)
+
+الرابط متاح للمشاركة. جميع البيانات افتراضية، وتُحفظ تغييرات كل زائر في متصفحه فقط دون مزامنتها مع الزوار الآخرين.
+
 ## معاينة الواجهة
 
 ![لوحة إدارة الموارد البشرية](screenshots/admin-dashboard.png)
