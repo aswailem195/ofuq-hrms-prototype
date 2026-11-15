@@ -1,6 +1,6 @@
 # Original image assets
 
-Generated with the built-in image_gen tool. All assets are supporting illustrations, not interface screenshots. Saved locally for independent operation. SVG logo and avatars were authored from scratch in this project; all people are synthetic illustrations.
+Generated with the built-in image_gen tool. All assets are supporting illustrations, not interface screenshots. Saved locally for independent operation. The SVG logo was authored from scratch in this project. Employee portrait prompts are recorded separately in `docs/AVATAR_PROMPTS.md`; the current portraits are photorealistic depictions of entirely fictional people.
 
 ## banner-team.png
 

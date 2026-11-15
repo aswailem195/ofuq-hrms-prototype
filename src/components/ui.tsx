@@ -3,6 +3,7 @@ import { X, Inbox, ArrowUpLeft } from "lucide-react";
 import { createPortal } from "react-dom";
 import { useStore } from "../store";
 import type { Employee } from "../types";
+import { employeePortrait } from "../avatars";
 
 export function Card({
   children,
@@ -81,11 +82,13 @@ export function Avatar({
   return (
     <img
       className="avatar"
-      src={`/assets/avatar-${(employee.avatar % 12) + 1}.svg`}
-      alt={`صورة رمزية لـ${employee.name}`}
+      src={employeePortrait(employee)}
+      alt={`صورة شخصية مولدة لشخصية ${employee.name} الافتراضية`}
       width={size}
       height={size}
       style={{ width: size, height: size }}
+      loading="lazy"
+      decoding="async"
     />
   );
 }
