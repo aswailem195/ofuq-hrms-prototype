@@ -1,18 +1,29 @@
-# أفق — نموذج إدارة الموارد البشرية
+# أفق | Ofuq HRMS Prototype
 
 نموذج ويب تفاعلي باللغة العربية وبتخطيط RTL لشركة الأفق التجارية. صُمّم للعرض على الإدارة وجمع الملاحظات، مع بيانات افتراضية محفوظة في المتصفح.
+
+Arabic RTL HRMS prototype built with React, TypeScript and Vite. Includes 15 HR modules, an employee portal, payroll, sales commissions, and approval workflows. Frontend only, with fictional data stored in the browser.
+
+## معاينة الواجهة
+
+![لوحة إدارة الموارد البشرية](screenshots/admin-dashboard.png)
+
+![بوابة الموظف](screenshots/employee-portal.png)
+
+[دليل الموظفين](screenshots/employee-directory.png) · [العمولات](screenshots/commissions.png) · [الصور الشخصية المولدة](screenshots/avatars-preview.png)
 
 ## التشغيل
 
 يلزم Node.js 20.19 أو أحدث، مع npm.
 
 ```bash
-cd /home/swailem/Downloads/hrms_codex_kit
+git clone https://github.com/aswailem195/ofuq-hrms-prototype.git
+cd ofuq-hrms-prototype
 npm install
 npm run dev
 ```
 
-افتح **http://localhost:5173**. في مساحة العمل الحالية الحزم مثبتة بالفعل، ويمكن التشغيل مباشرة بـ `./start.sh` حتى إذا لم يكن أمر npm متاحًا في PATH. للإنتاج التجريبي المحلي:
+افتح **http://localhost:5173**. بعد تثبيت الحزم، يمكنك أيضًا تشغيل المشروع باستخدام `./start.sh`. للإنتاج التجريبي المحلي:
 
 ```bash
 npm run build
