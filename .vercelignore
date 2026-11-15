@@ -1,0 +1,16 @@
+.git/
+node_modules/
+dist/
+tmp/
+test-results/
+playwright-report/
+screenshots/
+references/
+output/
+.openai/
+.agents/
+.codex/
+.aws/
+.env
+.env.*
+*.tsbuildinfo

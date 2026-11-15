@@ -8,6 +8,7 @@ tmp/
 .agents/
 .codex/
 .aws/
+.vercel/
 .env
 .env.*
 !.env.example
